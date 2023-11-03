@@ -65,8 +65,8 @@ ul{
 #part2{
     height: 100%;
     width: 67%;
-    background-color: rgb(24, 185, 12);
-    background-image: url(/image/smallpic.jpeg);
+    /* background-color: rgb(24, 185, 12); */
+    background-image: url(/image/smallpic.jpg);
     
     background-position: center;
 }
@@ -103,7 +103,7 @@ ul{
     height: 400px;
     width: 250px;
     position: absolute;
-    background-color: #ffff;
+    /* background-color: #ffff; */
     top: 50%;
     right: 5%;
     transform: translate(0,-50%);
